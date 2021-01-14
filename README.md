@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/confluentinc/ksql)
+
 # ![KSQL rocket](ksql-rocket.png) ksqlDB
 
 ### The event streaming database purpose-built for stream processing applications
